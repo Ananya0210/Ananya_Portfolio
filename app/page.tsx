@@ -373,7 +373,7 @@ export default function Page() {
               View Projects <ArrowRight className="ml-2 h-4 w-4" />
             </a>
             <a
-              href="/resume.pdf"
+              href="resume.pdf"
               download
               className="inline-flex items-center rounded-2xl border border-[#D7C7B7] bg-white px-5 py-3 font-medium text-[#2E241D] hover:border-[#B89B83]"
             >
