@@ -400,7 +400,7 @@ export default function Page() {
             <div className="mx-auto h-52 w-52 overflow-hidden rounded-3xl">
             
             <img
-  src="/Ananya_Portfolio/profile.jpg"
+  src="/profile.jpg"
   alt="Ananya Sureshbabu"
   className="h-full w-full object-cover"
 />
